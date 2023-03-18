@@ -1,1 +1,0 @@
-# teste_imagem_docker
